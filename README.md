@@ -1,11 +1,6 @@
 # Test-Game
 Shape Select Game
 
-[![Start Screen](TestGame Images/TestGame Screenshot 2022.02.17 - 01.05.48.79.png)
-
-[![Main Screen](TestGame Images/TestGame Screenshot 2022.02.17 - 01.05.55.73.png)
-
-[![GameOver Game](TestGame Images/TestGame Screenshot 2022.02.17 - 01.06.54.08.png)
 
 <br />
 <p align="center">
@@ -14,6 +9,28 @@ Shape Select Game
   </a>
 
   <h3 align="center">Start Screen</h3>
+    <br />
+  </p>
+</p>
+
+<br />
+<p align="center">
+  <a href="">
+    <img src="TestGame Images/TestGame Screenshot 2022.02.17 - 01.05.55.73.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h3 align="center">Main Game</h3>
+    <br />
+  </p>
+</p>
+
+<br />
+<p align="center">
+  <a href="">
+    <img src="TestGame Images/TestGame Screenshot 2022.02.17 - 01.06.54.08.png" alt="Logo" width="200" height="200">
+  </a>
+
+  <h3 align="center">Game Over</h3>
     <br />
   </p>
 </p>
