@@ -10,7 +10,7 @@ Shape Select Game
 <br />
 <p align="center">
   <a href="">
-    <img src="TestGame Images/TestGame Screenshot 2022.02.17 - 01.05.48.79.png" alt="Logo" width="80" height="80">
+    <img src="TestGame Images/TestGame Screenshot 2022.02.17 - 01.05.48.79.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Start Screen</h3>
