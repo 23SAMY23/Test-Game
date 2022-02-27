@@ -10,6 +10,13 @@ TagManager:
   - Triangle
   - Circle
   - Pentagon
+  - RightArrow
+  - LeftArrow
+  - Shapes
+  - LoadAnimation
+  - ShapeTag
+  - GameTime
+  - GameSlider
   layers:
   - Default
   - TransparentFX
